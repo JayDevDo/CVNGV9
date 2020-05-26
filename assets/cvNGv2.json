@@ -2,6 +2,18 @@
 	{ 	"id": "jobs",
 		"data" 	:	[  
 						{
+							"jobTitle" 	:			"Collections officer BE",
+							"company" 	:			"Genpact Bucharest",
+							"startDate" : 			"2019-08",
+							"endDate" 	: 			"2020-02",
+							"jobDescr" 	: 			"Urging Belgian companies to pay their invoices",
+							"countryAndlocation" :	"RO-Bucharest",
+							"languages" : 			["EN","NL","FR"],
+							"toolsUsed" :			["MS Office","Web browsers", "SAP-ERP"],
+							"durationMonths" :		6,
+							"jobDomain" :			["CS","Collections"]
+						},
+						{
 							"jobTitle" 	:			"Client Service Consultant – HR Solutions",
 							"company" 	:			"ADP Bucharest",
 							"startDate" : 			"2017-07",
@@ -74,15 +86,39 @@
 							"jobDomain" :			["CS","Collections"]
 						},
 						{
+							"jobTitle" 	:			"logistics Assistant",
+							"company" 	:			"Adecco Oyonnax",
+							"startDate" : 			"2008-07",
+							"endDate" 	: 			"2008-12",
+							"jobDescr" 	: 			"Preparing routes for delivery of bespoke terrace (sliding) doors",
+							"countryAndlocation" :	"FR-Oyonax (01)",
+							"languages" : 			["FR"],
+							"toolsUsed" :			["scanners", "BT"],
+							"durationMonths" :		6,
+							"jobDomain" :			["Warehouse"]							
+						},
+						{
+							"jobTitle" 	:			"logistics Assistant",
+							"company" 	:			"Tereva",
+							"startDate" : 			"2008-01",
+							"endDate" 	: 			"2008-06",
+							"jobDescr" 	: 			"Preparing routes for delivery of plumbing and bathroom goods",
+							"countryAndlocation" :	"FR-Bressoles (01)",
+							"languages" : 			["FR"],
+							"toolsUsed" :			["scanners", "BT"],
+							"durationMonths" :		6,
+							"jobDomain" :			["Warehouse"]							
+						},
+						{
 							"jobTitle" 	:			"Seasonal receptionist",
 							"company" 	:			"MMP holding",
 							"startDate" : 			"2007-01",
-							"endDate" 	: 			"2008-12",
+							"endDate" 	: 			"2007-12",
 							"jobDescr" 	: 			"General reception duties in ski residences, camp-sites. Setting up a newly opened ski-residence in the French Alps. Organising the reception and reservations.",
 							"countryAndlocation" :	"FR-Saint-Sorlin-d'Arves (73), Vias (34), Gap (01), Cap d'Agde (34)",
 							"languages" : 			["FR","NL","EN","DE"],
 							"toolsUsed" :			["MS Office","self made Access/Excel database"],
-							"durationMonths" :		24,
+							"durationMonths" :		12,
 							"jobDomain" :			["CS","Tourism"]
 						},
 						{
@@ -99,14 +135,26 @@
 						},
 						{
 							"jobTitle" 	:			"Warehouse/expedition operator",
-							"company" 	:			"3 yearly contracts via a temp agency",
-							"startDate" : 			"2002-01",
+							"company" 	:			"2 yearly contracts via Manpower",
+							"startDate" : 			"2003-01",
 							"endDate" 	: 			"2005-04",
 							"jobDescr" 	: 			"Order-picking, route preperation, loading, unloading, returns handling, Forklift, EU transport document preperation, quality control, team rotation planning.",
 							"countryAndlocation" :	"NL-Tilburg",
 							"languages" : 			["NL","EN"],
-							"toolsUsed" :			["SAP-ERP","Forklift"],
-							"durationMonths" :		36,
+							"toolsUsed" :			["SAP-ERP","Forklift","BT"],
+							"durationMonths" :		24,
+							"jobDomain" :			["Warehouse"]
+						},
+						{
+							"jobTitle" 	:			"Order-picking",
+							"company" 	:			"1 year contract via a temp agency",
+							"startDate" : 			"2002-01",
+							"endDate" 	: 			"2002-12",
+							"jobDescr" 	: 			"Order-picking for a big supermarket DC. Fruit/Dairy/Meat department",
+							"countryAndlocation" :	"NL-Tilburg",
+							"languages" : 			["NL","EN"],
+							"toolsUsed" :			["scanner", "BT", "Forklift"],
+							"durationMonths" :		12,
 							"jobDomain" :			["Warehouse"]
 						},
 						{
@@ -144,7 +192,7 @@
 							"toolsUsed" :			["pen and paper", "public phones", "fax"],
 							"durationMonths" :		7,
 							"jobDomain" :			["CS","Tourism"]
-						},
+						},						
 						{
 							"jobTitle" 	:			"Campsite and montage Supervisor",
 							"company" 	:			"Eurocamp",
@@ -165,7 +213,7 @@
 					{	"domain": "IT", 		"duration": 149 },
 					{	"domain": "Tourism", 	"duration": 39 },
 					{	"domain": "Warehouse", 	"duration": 36 },
-					{	"domain": "Collections","duration": 21 }
+					{	"domain": "Collections","duration": 27 }
 				]
 	},
 	{	"id": "jobLocations",
