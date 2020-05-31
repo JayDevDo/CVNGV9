@@ -736,7 +736,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         _classCallCheck(this, CVService);
 
         this.http = http;
-        this._url = './assets/cvNGv2.json';
+        this._url = './assets/cvNGv2-NL.json';
       }
 
       _createClass(CVService, [{
@@ -1243,9 +1243,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     JobLocationsComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: JobLocationsComponent,
       selectors: [["jobLocations"]],
-      decls: 8,
+      decls: 10,
       vars: 2,
-      consts: [[1, "fas", "fa-globe-europe"], [4, "ngFor", "ngForOf"]],
+      consts: [[1, "fas", "fa-globe-europe"], [4, "ngFor", "ngForOf"], [1, "maplink"], ["src", "https://www.google.com/maps/d/embed?mid=1FkuGGgHPt2XS-D3BdE6dCJGqLoY", "width", "600", "height", "400"]],
       template: function JobLocationsComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
@@ -1269,6 +1269,12 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](7, JobLocationsComponent_li_7_Template, 7, 2, "li", 1);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "iframe", 3);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1736,8 +1742,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           thumbLabel: "thumbLabel",
           largeStep: 5,
           smallStep: 1,
-          min: 1993,
-          max: 2019
+          min: 1988,
+          max: 2020
         };
         this.step = 10;
         this.tooltip = {
@@ -1877,7 +1883,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       selectors: [["jobs"]],
       decls: 77,
       vars: 27,
-      consts: [[1, "jobContent"], [3, "click"], [3, "hidden"], ["thumbLabel", "", "tickInterval", "auto", "min", "1993", "max", "2019", 3, "input"], ["id", "srchRes", 3, "hidden"], [1, "clrFltr"], [1, "jobListWrapper"], ["title", "click for details", "class", "jobTitle", 3, "hidden", "click", 4, "ngFor", "ngForOf"], ["title", "click for details", 1, "jobTitle", 3, "hidden", "click"], ["class", "fas fa-chevron-right", 4, "ngIf"], ["class", "fas fa-chevron-down", 4, "ngIf"], [1, "jobdetails", 3, "hidden"], [1, "joblist"], [1, "jdHeader"], [1, "jdItem"], ["class", "jdItem domItem", 4, "ngFor", "ngForOf"], ["class", "jdItem lngItem", 4, "ngFor", "ngForOf"], ["class", "jdItem toolItem", 4, "ngFor", "ngForOf"], [1, "fas", "fa-chevron-right"], [1, "fas", "fa-chevron-down"], [1, "jdItem", "domItem"], [1, "jdItem", "lngItem"], [1, "jdItem", "toolItem"]],
+      consts: [[1, "jobContent"], [3, "click"], [3, "hidden"], ["thumbLabel", "", "tickInterval", "auto", "min", "1988", "max", "2020", 3, "input"], ["id", "srchRes", 3, "hidden"], [1, "clrFltr"], [1, "jobListWrapper"], ["title", "click for details", "class", "jobTitle", 3, "hidden", "click", 4, "ngFor", "ngForOf"], ["title", "click for details", 1, "jobTitle", 3, "hidden", "click"], ["class", "fas fa-chevron-right", 4, "ngIf"], ["class", "fas fa-chevron-down", 4, "ngIf"], [1, "jobdetails", 3, "hidden"], [1, "joblist"], [1, "jdHeader"], [1, "jdItem"], ["class", "jdItem domItem", 4, "ngFor", "ngForOf"], ["class", "jdItem lngItem", 4, "ngFor", "ngForOf"], ["class", "jdItem toolItem", 4, "ngFor", "ngForOf"], [1, "fas", "fa-chevron-right"], [1, "fas", "fa-chevron-down"], [1, "jdItem", "domItem"], [1, "jdItem", "lngItem"], [1, "jdItem", "toolItem"]],
       template: function JobsComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2553,6 +2559,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "br");
+
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
 
@@ -2597,7 +2605,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       selectors: [["profile"]],
       decls: 7,
       vars: 2,
-      consts: [[2, "text-align", "center"], [1, "fas", "fa-head-side-virus"], [4, "ngFor", "ngForOf"]],
+      consts: [[2, "text-align", "center"], [1, "fas", "fa-head-side-virus"], [1, "profileData"], [4, "ngFor", "ngForOf"]],
       template: function ProfileComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2610,11 +2618,11 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 2);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](6, ProfileComponent_a_6_Template, 2, 1, "a", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](6, ProfileComponent_a_6_Template, 3, 1, "a", 3);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2634,7 +2642,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         }
       },
       directives: [_angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"]],
-      styles: ["li[_ngcontent-%COMP%]{\n    list-style-type: none;\n    list-style: none;\n}\n\ndiv[_ngcontent-%COMP%]{\n    background-color: #0c0624;\n    color: #588ce2;\n    height: -webkit-max-content;\n    height: -moz-max-content;\n    height: max-content;\n    margin: 5% 10% 5% 10%;\n}\n\ndiv[_ngcontent-%COMP%]    > div[_ngcontent-%COMP%]{\n    font-size: 1.25rem;\n    border-left: 5px solid yellow;\n    border-top-right-radius: 20px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcHJvZmlsZS9wcm9maWxlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxxQkFBcUI7SUFDckIsZ0JBQWdCO0FBQ3BCOztBQUVBO0lBQ0kseUJBQXlCO0lBQ3pCLGNBQWM7SUFDZCwyQkFBbUI7SUFBbkIsd0JBQW1CO0lBQW5CLG1CQUFtQjtJQUNuQixxQkFBcUI7QUFDekI7O0FBRUE7SUFDSSxrQkFBa0I7SUFDbEIsNkJBQTZCO0lBQzdCLDZCQUE2QjtBQUNqQyIsImZpbGUiOiJzcmMvYXBwL3Byb2ZpbGUvcHJvZmlsZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsibGl7XG4gICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG59XG5cbmRpdntcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMGMwNjI0O1xuICAgIGNvbG9yOiAjNTg4Y2UyO1xuICAgIGhlaWdodDogbWF4LWNvbnRlbnQ7XG4gICAgbWFyZ2luOiA1JSAxMCUgNSUgMTAlO1xufVxuXG5kaXYgPiBkaXZ7XG4gICAgZm9udC1zaXplOiAxLjI1cmVtO1xuICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgeWVsbG93O1xuICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAyMHB4O1xufVxuIl19 */"]
+      styles: ["li[_ngcontent-%COMP%]{\n    list-style-type: none;\n    list-style: none;\n}\n\ndiv[_ngcontent-%COMP%]{\n    background-color: #0c0624;\n    color: #588ce2;\n    height: -webkit-max-content;\n    height: -moz-max-content;\n    height: max-content;\n    margin: 5% 10% 5% 10%;\n}\n\ndiv[_ngcontent-%COMP%]    > div[_ngcontent-%COMP%]{\n    font-size: 1.25rem;\n    border-left: 5px solid yellow;\n    border-top-right-radius: 20px;\n}\n\n.profileData[_ngcontent-%COMP%]{\n    text-align: left;   \n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcHJvZmlsZS9wcm9maWxlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxxQkFBcUI7SUFDckIsZ0JBQWdCO0FBQ3BCOztBQUVBO0lBQ0kseUJBQXlCO0lBQ3pCLGNBQWM7SUFDZCwyQkFBbUI7SUFBbkIsd0JBQW1CO0lBQW5CLG1CQUFtQjtJQUNuQixxQkFBcUI7QUFDekI7O0FBRUE7SUFDSSxrQkFBa0I7SUFDbEIsNkJBQTZCO0lBQzdCLDZCQUE2QjtBQUNqQzs7QUFFQTtJQUNJLGdCQUFnQjtBQUNwQiIsImZpbGUiOiJzcmMvYXBwL3Byb2ZpbGUvcHJvZmlsZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsibGl7XG4gICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG59XG5cbmRpdntcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMGMwNjI0O1xuICAgIGNvbG9yOiAjNTg4Y2UyO1xuICAgIGhlaWdodDogbWF4LWNvbnRlbnQ7XG4gICAgbWFyZ2luOiA1JSAxMCUgNSUgMTAlO1xufVxuXG5kaXYgPiBkaXZ7XG4gICAgZm9udC1zaXplOiAxLjI1cmVtO1xuICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgeWVsbG93O1xuICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAyMHB4O1xufVxuXG4ucHJvZmlsZURhdGF7XG4gICAgdGV4dC1hbGlnbjogbGVmdDsgICBcbn0iXX0= */"]
     });
     /*@__PURE__*/
 
