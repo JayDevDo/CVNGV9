@@ -9,7 +9,7 @@
             "jobDescr"  :           "Voorbereiden zendingen naar campings in Europa. Tentenopbouw 5 campings in NL en DE",
             "countryAndlocation" :  "NL-Eindhoven",
             "languages" :           ["EN","NL","DE"],
-            "toolsUsed" :           ["Rijbewijs"],
+            "toolsUsed" :           ["Rijbewijs B"],
             "durationMonths" :      2,
             "jobDomain" :           ["Warehouse","Tourism"]
             },
@@ -21,7 +21,7 @@
             "jobDescr"  :           "Deeltijd bezorger in zuid NL en BE",
             "countryAndlocation" :  "NL-Reusel",
             "languages" :           ["NL"],
-            "toolsUsed" :           ["Rijbewijs"],
+            "toolsUsed" :           ["Rijbewijs B"],
             "durationMonths" :      5,
             "jobDomain" :           ["Warehouse"]
             },
