@@ -9,7 +9,7 @@
                             "jobDescr"  :           "Preparing shipments to campsites and tent buiding of 5 sites in NL and DE",
                             "countryAndlocation" :  "NL-Eindhoven",
                             "languages" :           ["EN","NL","DE"],
-                            "toolsUsed" :           ["Rijbewijs"],
+                            "toolsUsed" :           ["Rijbewijs B"],
                             "durationMonths" :      2,
                             "jobDomain" :           ["Warehouse","Tourism"]
                         },
@@ -21,7 +21,7 @@
                             "jobDescr"  :           "Delivering in the south of NL and BE",
                             "countryAndlocation" :  "NL-Reusel",
                             "languages" :           ["NL"],
-                            "toolsUsed" :           ["Rijbewijs"],
+                            "toolsUsed" :           ["Rijbewijs B"],
                             "durationMonths" :      5,
                             "jobDomain" :           ["Warehouse"]
                         },
@@ -430,7 +430,7 @@
 		"data": [
 			{
 				"platform": "Warehouse", 
-				"skills": [ "Rijbewijs B", "Forklift (no cert.)"]
+				"skills": [ "Driving License B", "Forklift (no cert.)"]
 					
 			},{ 
 				"platform": "windows", 
