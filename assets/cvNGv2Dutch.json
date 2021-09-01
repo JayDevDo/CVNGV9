@@ -389,7 +389,7 @@
 		"data": [
 					{ 	
 						"country":"NL",
-						"location": ["Tilburg","Eindhoven"]
+						"location": ["Tilburg","Eindhoven","Reusel"]
 					},
 					{ 
 						"country": "CZ",
@@ -427,7 +427,13 @@
 				]
 	},
 	{	"id": "tools",
-		"data": [
+		"data": [ {  
+			"platform": "Warehouse",
+			"skills": [
+					"Rijbewijs B",
+					"Forklift (no cert.)"
+				]
+			},
 			{ 
 				"platform": "windows", 
 				"skills": [ 
@@ -504,7 +510,7 @@
             " ",
             "Ik spreek vloeiend Engels, Frans en Duits en heb veel ervaring met IT. Ik heb echter gemerkt dat mijn gezichtsvermogen achteruit is gegaan, en vanwege een 'lui oog' is continu computerwerk geen optie meer. Geen paniek, want met voldoende licht zie ik de zaken nog zeer helder!",
             " ",
-            "Helaas is mijn rijbewijs verlopen tijdens mijn verblijf in de EU en ik zal de bureacratische wandelgangen moeten doorlopen om deze weer aktief te krijgen. Daarna ben ik nog breder inzetbaar. Ik werk graag avonddiensten en weekends om op die manier meer te verdienen."
+            "Ik werk graag avonddiensten en weekends om op die manier meer te verdienen."
         ]
 	},
 	{	"id": "contact",
