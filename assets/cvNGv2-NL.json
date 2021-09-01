@@ -1,6 +1,42 @@
 [
 	{ 	"id": "jobs",
 		"data" 	:	[  
+						{
+							"jobTitle" 	:			"Warehouse en tentenopbouw",
+							"company" 	:			"Vacansoleil",
+							"startDate" : 			"2021-04",
+							"endDate" 	: 			"2021-06",
+							"jobDescr" 	: 			"Voorbereiden zendingen naar campings in Europa. Tentenopbouw 5 campings in NL en DE",
+							"countryAndlocation" :	"NL-Eindhoven",
+							"languages" : 			["EN","NL","DE"],
+							"toolsUsed" :			["Rijbewijs"],
+							"durationMonths" :		2,
+							"jobDomain" :			["Warehouse","Tourism"]
+						},
+						{
+							"jobTitle" 	:			"Bezorger",
+							"company" 	:			"Hello Fresh",
+							"startDate" : 			"2020-10",
+							"endDate" 	: 			"2021-02",
+							"jobDescr" 	: 			"Deeltijd bezorger in zuid NL en BE",
+							"countryAndlocation" :	"NL-Reusel",
+							"languages" : 			["NL"],
+							"toolsUsed" :			["Rijbewijs"],
+							"durationMonths" :		5,
+							"jobDomain" :			["Warehouse"]
+						},
+						{
+							"jobTitle" 	:			"CS ",
+							"company" 	:			"BelVilla",
+							"startDate" : 			"2020-06",
+							"endDate" 	: 			"2020-09",
+							"jobDescr" 	: 			"Informing customers about Covid measures and voucher procedures",
+							"countryAndlocation" :	"NL-Eindhoven",
+							"languages" : 			["EN","NL","FR", "DE"],
+							"toolsUsed" :			["MS Office","Web browsers"],
+							"durationMonths" :		3,
+							"jobDomain" :			["CS","Tourism"]
+						},			
             {
                 "jobTitle" 	:			"Collections officer BE",
                 "company" 	:			"Genpact Bucharest",
