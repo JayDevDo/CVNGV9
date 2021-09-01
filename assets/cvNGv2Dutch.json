@@ -1,61 +1,61 @@
 [
 	{ 	"id": "jobs",
-		"data" 	:	[  
-                        {
-                            "jobTitle"  :           "Warehouse en tentenopbouw",
-                            "company"   :           "Vacansoleil",
-                            "startDate" :           "2021-04",
-                            "endDate"   :           "2021-06",
-                            "jobDescr"  :           "Preparing shipments to campsites and tent buiding of 5 sites in NL and DE",
-                            "countryAndlocation" :  "NL-Eindhoven",
-                            "languages" :           ["EN","NL","DE"],
-                            "toolsUsed" :           ["Rijbewijs"],
-                            "durationMonths" :      2,
-                            "jobDomain" :           ["Warehouse","Tourism"]
-                        },
-                        {
-                            "jobTitle"  :           "Bezorger",
-                            "company"   :           "Hello Fresh",
-                            "startDate" :           "2020-10",
-                            "endDate"   :           "2021-02",
-                            "jobDescr"  :           "Delivering in the south of NL and BE",
-                            "countryAndlocation" :  "NL-Reusel",
-                            "languages" :           ["NL"],
-                            "toolsUsed" :           ["Rijbewijs"],
-                            "durationMonths" :      5,
-                            "jobDomain" :           ["Warehouse"]
-                        },
-                        {
-                            "jobTitle"  :           "CS ",
-                            "company"   :           "BelVilla",
-                            "startDate" :           "2020-06",
-                            "endDate"   :           "2020-09",
-                            "jobDescr"  :           "Informing customers about Covid measures and voucher procedures",
-                            "countryAndlocation" :  "NL-Eindhoven",
-                            "languages" :           ["EN","NL","FR", "DE"],
-                            "toolsUsed" :           ["MS Office","Web browsers"],
-                            "durationMonths" :      3,
-                            "jobDomain" :           ["CS","Tourism"]
-                        },
+		"data" 	:	[ 
             {
-                "jobTitle" 	:			"Collections officer BE",
-                "company" 	:			"Genpact Bucharest",
+            "jobTitle"  :           "Warehouse en tentenopbouw",
+            "company"   :           "Vacansoleil",
+            "startDate" :           "2021-04",
+            "endDate"   :           "2021-06",
+            "jobDescr"  :           "Voorbereiden zendingen naar campings in Europa. Tentenopbouw 5 campings in NL en DE",
+            "countryAndlocation" :  "NL-Eindhoven",
+            "languages" :           ["EN","NL","DE"],
+            "toolsUsed" :           ["Rijbewijs"],
+            "durationMonths" :      2,
+            "jobDomain" :           ["Warehouse","Tourism"]
+            },
+            {
+            "jobTitle"  :           "Bezorger",
+            "company"   :           "Hello Fresh",
+            "startDate" :           "2020-10",
+            "endDate"   :           "2021-02",
+            "jobDescr"  :           "Deeltijd bezorger in zuid NL en BE",
+            "countryAndlocation" :  "NL-Reusel",
+            "languages" :           ["NL"],
+            "toolsUsed" :           ["Rijbewijs"],
+            "durationMonths" :      5,
+            "jobDomain" :           ["Warehouse"]
+            },
+            {
+            "jobTitle"  :           "CS ",
+            "company"   :           "BelVilla",
+            "startDate" :           "2020-06",
+            "endDate"   :           "2020-09",
+            "jobDescr"  :           "Informeren van klanten over Covid maatregelen en vouchers",
+            "countryAndlocation" :  "NL-Eindhoven",
+            "languages" :           ["EN","NL","FR", "DE"],
+            "toolsUsed" :           ["MS Office","Web browsers"],
+            "durationMonths" :      3,
+            "jobDomain" :           ["CS","Tourism"]
+            }, 
+            {
+                "jobTitle" 	:			"Debiteurenbeheer BE",
+                "company" 	:			"Genpact Boekarest",
                 "startDate" : 			"2019-08",
                 "endDate" 	: 			"2020-02",
-                "jobDescr" 	: 			"Urging Belgian companies to pay their invoices",
-                "countryAndlocation" :	"RO-Bucharest",
+                "jobDescr" 	: 			"Aanmanen, dispuutbeheer, herfacturatie aansturen",
+                "countryAndlocation" :	"RO-Boekarest",
                 "languages" : 			["EN","NL","FR"],
                 "toolsUsed" :			["MS Office","Web browsers", "SAP-ERP"],
                 "durationMonths" :		7,
-                "jobDomain" :			["CS","Collections"]
+                "jobDomain" :			["CS","Debiteurenbeheer"]
             },
             {
                 "jobTitle" 	:			"Client Service Consultant – HR Solutions",
-                "company" 	:			"ADP Bucharest",
+                "company" 	:			"ADP Boekarest",
                 "startDate" : 			"2017-07",
                 "endDate" 	: 			"2019-01",
-                "jobDescr" 	: 			"Supporting and advising dutch customers on use of HR tools. Creating bug reports. Interaction with program developers",
-                "countryAndlocation" :	"RO-Bucharest",
+                "jobDescr" 	: 			"Ondersteuning van HR programma. bug reports",
+                "countryAndlocation" :	"RO-Boekarest",
                 "languages" : 			["EN","NL"],
                 "toolsUsed" :			["Siebel","MS Office","Web browsers"],
                 "durationMonths" :		19,
@@ -66,8 +66,8 @@
                 "company" 	:			"Telus International",
                 "startDate" : 			"2017-01",
                 "endDate" 	: 			"2017-07",  
-                "jobDescr" 	: 			"Email support for a users of a Dutch dating site",
-                "countryAndlocation" :	"RO-Bucharest",
+                "jobDescr" 	: 			"Email support dating site",
+                "countryAndlocation" :	"RO-Boekarest",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["Custom CRM program"],
                 "durationMonths" :		6,
@@ -78,7 +78,7 @@
                 "company" 	:			"Free lance",
                 "startDate" : 			"2013-08",
                 "endDate" 	: 			"2016-12",
-                "jobDescr" 	: 			"Proofreading and translating survey/websites",
+                "jobDescr" 	: 			"Proofreading, vertalen, survey/websites",
                 "countryAndlocation" :	"SW-Stockholm",
                 "languages" : 			["EN","NL"],
                 "toolsUsed" :			["JAVA SE7", "AngularJS" , "D3", "JQuery", "JSON", "MySQL on linux server 14x/16x", "Apache2/Lighttpd webserver" , "PHP7-fpm"],
@@ -90,7 +90,7 @@
                 "company" 	:			"Monster Worldwide",
                 "startDate" : 			"2012-03",
                 "endDate" 	: 			"2013-07",
-                "jobDescr" 	: 			"Helping and advising (professional) users of Monster (jobsite) in NL and BE.",
+                "jobDescr" 	: 			"Helpen and adviseren (zakelijke) gebruikers van Monsterboard.",
                 "countryAndlocation" :	"CZ-Brno",
                 "languages" : 			["NL","EN","FR"],
                 "toolsUsed" :			["Siebel","SalesForce","Web browsers"],
@@ -102,7 +102,7 @@
                 "company" 	:			"Teleperformance Athens",
                 "startDate" : 			"2010-12",
                 "endDate" 	: 			"2012-01",
-                "jobDescr" 	: 			"Iphone Apple Care support representative (French) and Western Union Customer Service operator (Dutch).",
+                "jobDescr" 	: 			"Iphone Apple Care support (Franstalig) en Western Union Customer Service.",
                 "countryAndlocation" :	"GR-Athens",
                 "languages" : 			["NL","FR","EN"],
                 "toolsUsed" :			["MAC-OS X","Open Office suite", "Apple CRM"],
@@ -110,52 +110,52 @@
                 "jobDomain" :			["CS","IT"]
             },
             {
-                "jobTitle" 	:			"Senior collections officer",
+                "jobTitle" 	:			"Senior Debiteurenbeheer officer",
                 "company" 	:			"Anheuser Busch – Inbev",
                 "startDate" : 			"2009-01",
                 "endDate" 	: 			"2010-10",
-                "jobDescr" 	: 			"Restructuring Belgian national key accounts for collections after migration to SAP/ERP/R3.",
+                "jobDescr" 	: 			"Contact voor Belgische nationale key accounts.",
                 "countryAndlocation" :	"CZ-Prague",
                 "languages" : 			["NL","FR","EN"],
                 "toolsUsed" :			["SAP-ERP", "MS Office"],
                 "durationMonths" :		22,
-                "jobDomain" :			["CS","Collections"]
+                "jobDomain" :			["CS","Debiteurenbeheer"]
             },
             {
                 "jobTitle" 	:			"Scaffolding",
                 "company" 	:			"GSD",
                 "startDate" : 			"2008-09",
                 "endDate" 	: 			"2008-12",
-                "jobDescr" 	: 			"Assisting GSD certified Layer scaffolding. Material planning, elements delivery, ground assistance, scaffolding preperation (levelling, parts distribution),scaffolding finishing (netting, stairs, clean up)",
+                "jobDescr" 	: 			"Hulp bij GSD gecertificeerd Layer steigerbouw. Bezorgen steigermateriaal (Renault Master)",
                 "countryAndlocation" :	"FR-Gap (01)",
                 "languages" : 			["FR"],
                 "toolsUsed" :			["Driving License B"],
                 "durationMonths" :		4,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },
             {
                 "jobTitle" 	:			"logistics Assistant",
                 "company" 	:			"Tereva",
                 "startDate" : 			"2008-04",
                 "endDate" 	: 			"2008-07",
-                "jobDescr" 	: 			"Preparing routes for delivery of plumbing and bathroom goods",
+                "jobDescr" 	: 			"Routes laden; sanitair en badkamer benodigdheden",
                 "countryAndlocation" :	"FR-Bressoles (01)",
                 "languages" : 			["FR"],
                 "toolsUsed" :			["scanners", "BT"],
                 "durationMonths" :		6,
-                "jobDomain" :			["Warehouse"]							
+                "jobDomain" :			["Logistiek"]							
             },
             {
                 "jobTitle" 	:			"logistics Assistant",
                 "company" 	:			"Adecco Oyonnax / Ronaldis",
                 "startDate" : 			"2007-11",
                 "endDate" 	: 			"2008-02",
-                "jobDescr" 	: 			"Preparing routes for delivery of bespoke terrace (sliding) doors",
+                "jobDescr" 	: 			"Routes laden bespoke terrasdeuren",
                 "countryAndlocation" :	"FR-Oyonax (01)",
                 "languages" : 			["FR"],
                 "toolsUsed" :			["scanners", "BT"],
                 "durationMonths" :		4,
-                "jobDomain" :			["Warehouse"]							
+                "jobDomain" :			["Logistiek"]							
             },                        
             {
                 "jobTitle" 	:			"Waiter",
@@ -167,19 +167,19 @@
                 "languages" : 			["FR","NL","EN","DE"],
                 "toolsUsed" :			["Electronic order device", "POS (credit card"],
                 "durationMonths" :		4,
-                "jobDomain" :			["CS","Tourism"]
+                "jobDomain" :			["CS","Toerisme"]
             },
             {
                 "jobTitle" 	:			"Seasonal receptionist",
                 "company" 	:			"MMP holding",
                 "startDate" : 			"2007-01",
                 "endDate" 	: 			"2007-04",
-                "jobDescr" 	: 			"General reception duties in ski residences, camp-sites. Setting up a newly opened ski-residence in the French Alps. Organising the reception and reservations.",
+                "jobDescr" 	: 			"General reception duties in ski residence, camp-sites. Setting up a newly opened ski-residence in the French Alps. Organising the reception and reservations.",
                 "countryAndlocation" :	"FR-Saint-Sorlin-d'Arves (73), Vias (34), Gap (01), Cap d'Agde (34)",
                 "languages" : 			["FR","NL","EN","DE"],
                 "toolsUsed" :			["MS Office","self made Access/Excel database"],
                 "durationMonths" :		4,
-                "jobDomain" :			["CS","Tourism"]
+                "jobDomain" :			["CS","Toerisme"]
             },
             {
                 "jobTitle" 	:			"Road-side assistance",
@@ -194,16 +194,16 @@
                 "jobDomain" :			["CS"]
             },
             {
-                "jobTitle" 	:			"Warehouse/expedition operator",
+                "jobTitle" 	:			"Logistiek/expedition operator",
                 "company" 	:			"iLogistics via Manpower",
                 "startDate" : 			"2002-10",
                 "endDate" 	: 			"2005-04",
-                "jobDescr" 	: 			"Order-picking, route preperation, loading, unloading, returns handling, Forklift, EU transport document preperation, quality control, team rotation planning.",
+                "jobDescr" 	: 			"Order-picking, route preperation, loading, unloading, returns handling, Forklift, EU transport document preperation, quality control.",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL","EN"],
                 "toolsUsed" :			["SAP-ERP","Forklift","BT"],
                 "durationMonths" :		18,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },
             {
                 "jobTitle" 	:			"Campsite representative",
@@ -215,7 +215,7 @@
                 "languages" : 			["NL","FR","EN","DE"],
                 "toolsUsed" :			["pen and paper", "public phones", "fax"],
                 "durationMonths" :		6,
-                "jobDomain" :			["CS","Tourism"]
+                "jobDomain" :			["CS","Toerisme"]
             }, 	
             {
                 "jobTitle" 	:			"Order-picking",
@@ -227,7 +227,7 @@
                 "languages" : 			["NL","EN"],
                 "toolsUsed" :			["scanner", "BT", "Forklift"],
                 "durationMonths" :		6,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },
             {
                 "jobTitle" 	:			"IT support",
@@ -267,16 +267,16 @@
             },
 					
             {
-                "jobTitle" 	:			"Warehouse and buiding site jobs via temp agencies",
+                "jobTitle" 	:			"Logistiek and buiding site jobs via temp agencies",
                 "company" 	:			"temp agencies",
                 "startDate" : 			"1996-01",
                 "endDate" 	: 			"1997-06",
-                "jobDescr" 	: 			"Diverse array of jobs in warehouse and on building sites. Building site jobs include piling assistant, plaster wall installing",
+                "jobDescr" 	: 			"Diverse array of jobs in Logistiek and on building sites. Building site jobs include piling assistant, plaster wall installing",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["BT", "Forklift", "carpentry"],
                 "durationMonths" :		18,
-                "jobDomain" :			["Warehouse", "Construction"]
+                "jobDomain" :			["Logistiek", "Construction"]
             },						
             {
                 "jobTitle" 	:			"Education Assistant logistic manager",
@@ -288,7 +288,7 @@
                 "languages" : 			["NL"],
                 "toolsUsed" :			["MS Office", "Exact"],
                 "durationMonths" :		12,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },						
             {
                 "jobTitle" 	:			"Campsite and montage Supervisor",
@@ -300,10 +300,10 @@
                 "languages" : 			["NL","FR","EN","DE"],
                 "toolsUsed" :			["pen and paper", "public phones", "fax"],
                 "durationMonths" :		8,
-                "jobDomain" :			["CS","Tourism"]
+                "jobDomain" :			["CS","Toerisme"]
             },
             {
-                "jobTitle" 	:			"Non medical staff in care home",
+                "jobTitle" 	:			"Facility services in care home",
                 "company" 	:			"De Hazelaar (via temp agency)",
                 "startDate" : 			"1993-11",
                 "endDate" 	: 			"1994-04",
@@ -312,7 +312,7 @@
                 "languages" : 			["NL"],
                 "toolsUsed" :			["BT", "Forklift"],
                 "durationMonths" :		6,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },
             {
                 "jobTitle" 	:			"Senior campsite courier",
@@ -324,38 +324,38 @@
                 "languages" : 			["NL","FR","EN","DE"],
                 "toolsUsed" :			["pen and paper", "public phones", "fax"],
                 "durationMonths" :		7,
-                "jobDomain" :			["CS","Tourism"]
+                "jobDomain" :			["CS","Toerisme"]
             },
             {
                 "jobTitle" 	:			"Several jobs in warehousing and food production via temp agencies",
                 "company" 	:			"temp agencies",
                 "startDate" : 			"1992-06",
                 "endDate" 	: 			"1993-03",
-                "jobDescr" 	: 			"General warehouse tasks like route loading, unloading, material handling",
+                "jobDescr" 	: 			"General Logistiek tasks like route loading, unloading, material handling",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["BT", "Forklift"],
                 "durationMonths" :		10,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },
             {
                 "jobTitle" 	:			"Orderpicking, packaging, expedition",
                 "company" 	:			"Colliboek-Uitg. Zwijssen",
                 "startDate" : 			"1991-06",
                 "endDate" 	: 			"1992-05",
-                "jobDescr" 	: 			"1 year youth contract for distribution center of educational publishing company",
+                "jobDescr" 	: 			"1 year youth contract for distribution center of educational publishing company. Order pick-check, packaging, loading, unloading, Stock adjustments, picking preperation",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["Forklift"],
                 "durationMonths" :		12,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             },	
             {
                 "jobTitle" 	:			"Petrol station/shop attendant",
                 "company" 	:			"BP",
                 "startDate" : 			"1990-04",
                 "endDate" 	: 			"1991-05",
-                "jobDescr" 	: 			"Weekend and evening shifts at BP petrol station. Cash/credit card transactions, cleaning petrol pumps and shop, inventory,  ",
+                "jobDescr" 	: 			"Weekend and evening shifts at BP petrol station. Cash/credit card transactions, cleaning petrol pumps and shop, inventory,",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["POS","high pressure cleaner"],
@@ -367,12 +367,12 @@
                 "company" 	:			"temp agencies",
                 "startDate" : 			"1988-06",
                 "endDate" 	: 			"1990-03",
-                "jobDescr" 	: 			"General warehouse tasks like route loading, unloading, material handling",
+                "jobDescr" 	: 			"General Logistiek tasks like route loading, unloading, material handling",
                 "countryAndlocation" :	"NL-Tilburg",
                 "languages" : 			["NL"],
                 "toolsUsed" :			["BT", "Forklift"],
                 "durationMonths" :		12,
-                "jobDomain" :			["Warehouse"]
+                "jobDomain" :			["Logistiek"]
             }
         ]
 	},
@@ -380,24 +380,24 @@
 		"data": [
 					{	"domain": "CS", 		"duration": 173 },
 					{	"domain": "IT", 		"duration": 149 },
-					{	"domain": "Tourism", 	"duration": 39 },
-					{	"domain": "Warehouse", 	"duration": 36 },
-					{	"domain": "Collections","duration": 27 }
+					{	"domain": "Toerisme", 	"duration": 39 },
+					{	"domain": "Logistiek", 	"duration": 36 },
+					{	"domain": "Debiteurenbeheer","duration": 27 }
 				]
 	},
 	{	"id": "jobLocations",
 		"data": [
 					{ 	
 						"country":"NL",
-						"location": ["Tilburg"]
+						"location": ["Tilburg","Eindhoven"]
 					},
 					{ 
 						"country": "CZ",
-						"location": ["Prague", "Brno"]
+						"location": ["Praag", "Brno"]
 					},
 					{ 
 						"country": "GR",
-						"location": ["Athens"]
+						"location": ["Athene"]
 					},
 					{ 
 						"country": "SW",
@@ -405,7 +405,7 @@
 					},
 					{ 
 						"country": "RO",
-						"location": ["Bucharest"]
+						"location": ["Boekarest"]
 					},
 					{ 
 						"country": "FR",
@@ -437,7 +437,7 @@
 							"MS Access (expert)",
 							"MS Word (expert)",
 							"Simple VBA programming (macros)",
-							"Internet explorer",
+							"Internet explorer Edge",
 							"windows configurations 95-98-2000-NT-Vista-7-10"
 		 				]  
 			},
@@ -445,10 +445,9 @@
 				"platform": "WebDev", 
 				"skills": 	[
 								"HTML",
-								"Java SE 7" ,
 								"Java SE 8",
-								"PHP(rpm)",
-								"AngularJS",
+								"PHP",
+								"Angular(JS)",
 								"JQuery",
 								"Bootstrap",
 								"(s)CSS",
@@ -464,15 +463,14 @@
 								"Apache, Lighttpd",
 								"node-npm",
 								"Exchange",
-								"ActiveDirectory",
-								"Chrome (enterprise)"
+								"ActiveDirectory"
 							]  
 			},
 			{ 
 				"platform": "Familiar with", 
 				"skills": 	[
 								"SAP-ERP",
-								"Angular 8",
+								"Angular",
 								"AS400",
 								"Lotus Notes",
 								"Apple/Mac OS-X",
@@ -487,8 +485,8 @@
 	},
 	{	"id": "education",
 		"data": [
-					"1985-1990 - Gymnasium: Dutch, English, French, German, History, National- and business economics",
-					"1990-1991 - First year of the Dutch University of Tourism in Breda",
+					"1984-1990 - Gymnasium: Dutch, English, French, German, History, National- and business economics",
+					"1990-1991 - First year of the Dutch University of Toerisme in Breda",
 					"1995-1995 - Assistant logistics manager", 
 					"1998 - Sybase SQL basics",
 					"1999 - ITIL Foundations"
@@ -500,7 +498,7 @@
             " ",
             "Na mijn terugkeer ben ik zeer flexibel in de lokatie waar ik ga werken, maar mijn voorkeur gaat uit naar Brabant, Groningen of Friesland, het liefst in een wat kleinere stad of dorp. Ik heb de afgelopen jaren in zeer grote steden gewoond en ben op zoek naar een rustigere woonomgeving.",
             " ",
-            "Zoals jullie op mijn CV kunnen zien, heb ik meerdere jaren ervaring in warehouse/logistieke functies. Ook in Frankrijk heb ik een tijdje via uitzendburo's als lader/losser gewerkt gedurende de financiële crisis van 2008/2009.",
+            "Zoals jullie op mijn CV kunnen zien, heb ik meerdere jaren ervaring in Logistiek/logistieke functies. Ook in Frankrijk heb ik een tijdje via uitzendburo's als lader/losser gewerkt gedurende de financiële crisis van 2008/2009.",
             " ",
             "Mijn logistieke ervaring in Nederland dateert nog uit de tijd dat men niet overal een certificaat voor nodig had. Ik heb echter in NL vaak op de heftruck gereden (schadevrij, maar niet supersnel) en ook BT'tjes in allerlei vormen zijn voor mij geen probleem.",
             " ",
