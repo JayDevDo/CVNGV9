@@ -1,42 +1,30 @@
 [
 	{ 	"id": "jobs",
 		"data" 	:	[  
-                        {
-                            "jobTitle"  :           "Warehouse en tent montage",
-                            "company"   :           "Vacansoleil",
-                            "startDate" :           "2021-04",
-                            "endDate"   :           "2021-06",
-                            "jobDescr"  :           "Preparing shipments to campsites and tent buiding of 5 sites in NL and DE",
-                            "countryAndlocation" :  "NL-Eindhoven",
-                            "languages" :           ["EN","NL","DE"],
-                            "toolsUsed" :           ["Driving License B"],
-                            "durationMonths" :      2,
-                            "jobDomain" :           ["Warehouse","Tourism"]
-                        },
-                        {
-                            "jobTitle"  :           "Delivery",
-                            "company"   :           "Hello Fresh",
-                            "startDate" :           "2020-10",
-                            "endDate"   :           "2021-02",
-                            "jobDescr"  :           "Delivering in the south of NL and BE",
-                            "countryAndlocation" :  "NL-Reusel",
-                            "languages" :           ["NL"],
-                            "toolsUsed" :           ["Driving License B"],
-                            "durationMonths" :      5,
-                            "jobDomain" :           ["Warehouse"]
-                        },
-                        {
-                            "jobTitle"  :           "CS",
-                            "company"   :           "BelVilla",
-                            "startDate" :           "2020-06",
-                            "endDate"   :           "2020-09",
-                            "jobDescr"  :           "Informing customers about Covid measures and voucher procedures",
-                            "countryAndlocation" :  "NL-Eindhoven",
-                            "languages" :           ["EN","NL","FR", "DE"],
-                            "toolsUsed" :           ["MS Office","Web browsers"],
-                            "durationMonths" :      3,
-                            "jobDomain" :           ["CS","Tourism"]
-                        },
+            {
+                "jobTitle"  :           "Delivery",
+                "company"   :           "Hello Fresh",
+                "startDate" :           "2020-11",
+                "endDate"   :           "2021-02",
+                "jobDescr"  :           "delivery",
+                "countryAndlocation" :  "NL-Reusel",
+                "languages" :           ["EN","NL"],
+                "toolsUsed" :           ["Driving License"],
+                "durationMonths" :      4,
+                "jobDomain" :           ["logistics"]
+            },
+            {
+                "jobTitle"  :           "CS ",
+                "company"   :           "Belvilla",
+                "startDate" :           "2020-06",
+                "endDate"   :           "2020-10",
+                "jobDescr"  :           "Informing customers of covid regulations and reimbursement procedures.",
+                "countryAndlocation" :  "NL-Eindhoven",
+                "languages" :           ["EN","NL","FR","DE"],
+                "toolsUsed" :           ["MS Office","Web browsers"],
+                "durationMonths" :      4,
+                "jobDomain" :           ["CS","Tourism"]
+            },
             {
                 "jobTitle" 	:			"Collections officer BE",
                 "company" 	:			"Genpact Bucharest",
@@ -378,10 +366,10 @@
 	},
 	{	"id": "jobDomains",
 		"data": [
-					{	"domain": "CS", 		"duration": 176 },
+					{	"domain": "CS", 		"duration": 173 },
 					{	"domain": "IT", 		"duration": 149 },
-					{	"domain": "Tourism", 	"duration": 42 },
-					{	"domain": "Warehouse", 	"duration": 39 },
+					{	"domain": "Tourism", 	"duration": 39 },
+					{	"domain": "Warehouse", 	"duration": 36 },
 					{	"domain": "Collections","duration": 27 }
 				]
 	},
@@ -389,7 +377,7 @@
 		"data": [
 					{ 	
 						"country":"NL",
-						"location": ["Tilburg","Eindhoven","Reusel"]
+						"location": ["Tilburg","Reusel","Eindhoven"]
 					},
 					{ 
 						"country": "CZ",
@@ -428,11 +416,7 @@
 	},
 	{	"id": "tools",
 		"data": [
-			{
-				"platform": "Warehouse", 
-				"skills": [ "Rijbewijs B", "Forklift (no cert.)"]
-					
-			},{ 
+			{ 
 				"platform": "windows", 
 				"skills": [ 
 							"MS Office (expert)",
@@ -500,24 +484,22 @@
 	},
 	{	"id": "profile",
         "data": [
-            "Ik ben een Nederlander die al meer dan 15 jaar in Europa heeft gewerkt. Meestal in functies waarin veel klantcontact vereist was. Vanwege de Covid-19 crisis ben ik werkeloos geworden in Roemenië.",
+            "Na vele omzwervingen in Europa ben ik weer terug in Nederland. " ,
             " ",
-            "Na mijn terugkeer ben ik zeer flexibel in de lokatie waar ik ga werken, maar mijn voorkeur gaat uit naar Brabant, Groningen of Friesland, het liefst in een wat kleinere stad of dorp. Ik heb de afgelopen jaren in zeer grote steden gewoond en ben op zoek naar een rustigere woonomgeving.",
+            "Ik ben op zoek naar een baan als web/database/etl specialist.", 
             " ",
-            "Zoals jullie op mijn CV kunnen zien, heb ik meerdere jaren ervaring in warehouse/logistieke functies. Ook in Frankrijk heb ik een tijdje via uitzendburo's als lader/losser gewerkt gedurende de financiële crisis van 2008/2009.",
+            "Tijdens mijn overige werkzaamheden heb ik constant mezelf nuttige skills en tools eigen gemaakt.",
             " ",
-            "Mijn logistieke ervaring in Nederland dateert nog uit de tijd dat men niet overal een certificaat voor nodig had. Ik heb echter in NL vaak op de heftruck gereden (schadevrij, maar niet supersnel) en ook BT'tjes in allerlei vormen zijn voor mij geen probleem.",
+            "Het resultaat is een brede, niet gecertificeerde duizendpoot met affiniteit voor, en goed thuis in; vba-macros(excel) / php / sql / d3 / jquery. Ook heb ik kennis van Angular en Python.",
             " ",
-            "Ik spreek vloeiend Engels, Frans en Duits en heb veel ervaring met IT. Ik heb echter gemerkt dat mijn gezichtsvermogen achteruit is gegaan, en vanwege een 'lui oog' is continu computerwerk geen optie meer. Geen paniek, want met voldoende licht zie ik de zaken nog zeer helder!",
-            " ",
-            "Ik werk graag avonddiensten en weekends om op die manier meer te verdienen."
-        ]
+            "Ik voel me het meest thuis in kleinschalige projecten waarin mijn klantcontacten minimaal zijn en waar ik mijn werk op de achtergrond voltooi."
+         ]
 	},
 	{	"id": "contact",
 		"data": [
 					{ "item": "email", 			"value": "spamjaydo@gmail.com" },
 					{ "item": "phone/skype", 	"value": "on request" },
-					{ "item": "pdf", 			"value": "CV-JayVanDoormalen.pdf" },
+					{ "item": "pdf", 			"value": "assets/CV-JayVanDoormalen.pdf" },
 					{ "item": "host", 			"value": "" }
 				]
 	}
