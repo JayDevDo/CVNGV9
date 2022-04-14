@@ -499,17 +499,13 @@
 				]
 	},
 	{	"id": "profile",
-        "data": [
-            "Na vele omzwervingen in Europa ben ik weer terug in Nederland. " ,
-            " ",
-            "Ik ben op zoek naar een baan als web/database/etl specialist.", 
-            " ",
-            "Tijdens mijn overige werkzaamheden heb ik constant mezelf nuttige skills en tools eigen gemaakt.",
-            " ",
-            "Het resultaat is een brede, niet gecertificeerde duizendpoot met affiniteit voor, en goed thuis in; vba-macros(excel) / php / sql / d3 / jquery. Ook heb ik kennis van Angular en Python.",
-            " ",
-            "Ik voel me het meest thuis in kleinschalige projecten waarin mijn klantcontacten minimaal zijn en waar ik mijn werk op de achtergrond voltooi."
-         ]
+		"data": [
+				"Na vele omzwervingen in Europa ben ik sinds de pandemie weer terug in Nederland.",
+				" ",
+				"Tijdens mijn Europese tour heb ik mezelf constant nuttige skills en tools eigen gemaakt.",
+				" ",  
+				"Het resultaat is een brede, niet gecertificeerde duizendpoot met ervaring in diverse domeinen." 
+		]
 	},
 	{	"id": "contact",
 		"data": [
