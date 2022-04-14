@@ -1,6 +1,18 @@
 [
 	{ 	"id": "jobs",
 		"data" 	:	[  
+					{
+			                "jobTitle"  :           "Tent builder",
+			                "company"   :           "VacancSoleil",
+			                "startDate" :           "2021-04",
+			                "endDate"   :           "2021-06",
+			                "jobDescr"  :           "Building tents, setting up Mobile Homes in NL, DE, BE",
+			                "countryAndlocation" :  "NL-Eindhoven",
+			                "languages" :           ["EN","NL","DE","FR"],
+			                "toolsUsed" :           ["Driving License"],
+			                "durationMonths" :      2,
+			                "jobDomain" :           ["Warehouse","Tourism"]			
+			},
             {
                 "jobTitle"  :           "Delivery",
                 "company"   :           "Hello Fresh",
